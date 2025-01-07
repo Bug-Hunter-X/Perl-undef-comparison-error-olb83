@@ -1,0 +1,1 @@
+This repository contains a Perl code example that illustrates a frequent error related to the comparison of undefined variables. The original code attempts to compare an undefined scalar directly with undef, which leads to unexpected behavior. The solution demonstrates the correct and reliable method for checking if a variable is undefined using defined().
